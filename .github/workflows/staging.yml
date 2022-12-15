@@ -1,7 +1,7 @@
 name: Development
 
 env:
-  AZURE_WEBAPP_NAME: pmx-dev-cace-ngacita-hackathon-stg3
+  AZURE_WEBAPP_NAME: pmx-dev-cace-ngacita-hackathon-stg1
   AZURE_WEBAPP_PACKAGE_PATH: '.'
   DOTNET_VERSION: '6.0.x'
 
